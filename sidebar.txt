@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[clk:home|Door43 (clk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-clk|d43-clk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-clk/archive/master.zip|d43-clk.zip]]
+
+**Recent Changes**
+{{changes>ns = clk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/clk|Ethnologue data]]
+
